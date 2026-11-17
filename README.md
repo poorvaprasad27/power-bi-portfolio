@@ -43,10 +43,3 @@ This repository showcases my hands-on projects using Microsoft Power BI, Power Q
 - Applied drill-down analysis, conditional formatting, and data visualization.
 - Analyzed product performance and purchasing trends.
 
-## Contact
-
-**LinkedIn:** Your LinkedIn Profile
-
-**GitHub:** Your GitHub Profile
-
-**Email:** Your Professional Email
