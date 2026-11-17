@@ -1,4 +1,3 @@
-# power-bi-portfolio
 # Power BI Portfolio
 
 Welcome to my Power BI Portfolio!
